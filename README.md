@@ -1,6 +1,6 @@
 # Sistema de Recomendação de Filmes
 
-Este projeto apresenta um sistema de recomendação de filmes desenvolvido como parte de uma aula sobre modelos de recomendação. O objetivo é fornecer recomendações personalizadas de filmes com base nas preferências dos usuários, utilizando técnicas de filtragem colaborativa.
+Este projeto apresenta um sistema de recomendação de filmes baseado em filtragem colaborativa, desenvolvido a partir de uma aula sobre modelos de recomendação. O código utilizado neste repositório é o mesmo apresentado na aula e foi adaptado para demonstrar como criar um modelo simples de recomendação utilizando técnicas de aprendizado de máquina.
 
 ## Funcionalidades
 
@@ -23,6 +23,7 @@ Este projeto apresenta um sistema de recomendação de filmes desenvolvido como 
 2. Certifique-se de ter todas as bibliotecas necessárias instaladas. Você pode instalar as dependências utilizando o seguinte comando:
    ```bash
    pip install -r requirements.txt
+
 3. Execute o script principal para gerar recomendações com base nos dados fornecidos. Por exemplo:
     ```bash
     python recomendacao_filmes.py
