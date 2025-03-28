@@ -2,6 +2,8 @@
 
 Este projeto apresenta um sistema de recomendação de filmes baseado em filtragem colaborativa, desenvolvido a partir de uma aula sobre modelos de recomendação. O código utilizado neste repositório é o mesmo apresentado na aula e foi adaptado para demonstrar como criar um modelo simples de recomendação utilizando técnicas de aprendizado de máquina.
 
+Aula: [Como criar um modelo de Machine Learning de RECOMENDAÇÃO](https://www.youtube.com/watch?v=sDI3ntGFbSI)
+
 ## Funcionalidades
 
 - **Filtragem de Usuários e Filmes**: Considera apenas usuários com mais de 999 avaliações e filmes com mais de 999 avaliações para garantir a qualidade das recomendações.
