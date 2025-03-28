@@ -11,8 +11,6 @@ filmes = pd.read_csv('movies_metadata.csv', low_memory=False)
 # Importando o arquivo de avaliações 
 avaliacoes = pd.read_csv('ratings.csv')
 
-# Filtrando somente as colunas necessárias e renomeando o nome das variaveis
-
 # Seleciona somente as variaveis que iremos utilizar
 filmes = filmes[['id', 'original_title', 'original_language', 'vote_count']]
 
