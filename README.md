@@ -22,8 +22,8 @@ Este projeto apresenta um sistema de recomendação de filmes desenvolvido como 
 1. Clone este repositório para sua máquina local.
 2. Certifique-se de ter todas as bibliotecas necessárias instaladas. Você pode instalar as dependências utilizando o seguinte comando:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 3. Execute o script principal para gerar recomendações com base nos dados fornecidos. Por exemplo:
     ```bash
-    python recomendacao_filmes.py```
+    python recomendacao_filmes.py
 
